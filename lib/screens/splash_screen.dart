@@ -20,10 +20,8 @@ class SplashScreen extends StatelessWidget {
             //   ),
             // )
           },
-          child: Center(
-            child: Image.asset(
-              "assets/bloodbank.png",
-            ),
+          child: Container(
+            
           ),
         ),
       ),
